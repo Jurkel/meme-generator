@@ -1,4 +1,5 @@
 import React from 'react'
+import './MemeGenerator.css'
 
 function Header() {
   return (
